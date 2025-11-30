@@ -1,0 +1,5 @@
+--run application
+
+streamlit run app.py
+
+Python sql.py
